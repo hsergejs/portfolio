@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="1200" maxImageHeight="1200" textColor="0xffffff" frameColor="000000" frameWidth="1" stagePadding="10" navPadding="5" thumbnailColumns="5" thumbnailRows="1" navPosition="top" vAlign="top" hAlign="top" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>index1.jpg</filename>
+</image>
+<image>
+	<filename>index2.jpg</filename>
+</image>
+<image>
+	<filename>index3.jpg</filename>
+</image>
+<image>
+	<filename>dec_cat.jpg</filename>
+</image>
+<image>
+	<filename>az_cat.jpg</filename>
+</image>
+<image>
+	<filename>joinus.jpg</filename>
+</image>
+</simpleviewerGallery>

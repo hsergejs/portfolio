@@ -1,0 +1,56 @@
+div#content2 {margin: auto;
+position: relative;
+width: 800px;
+height:110px;
+}
+
+
+ul#menu2 {
+	margin-top:40px;
+	position:absolute;
+	margin-left:122px;
+}
+
+ul#menu2 li {background:url('../img/menu2.png') no-repeat;
+float:left;
+margin-right:25px;
+height:40px;
+width:105px;}
+
+ul#menu2 a {display:block;
+text-indent:-9000px;
+width:100%;
+height:50%;}
+
+ul#menu2 li#web {background-position:0px 0px;}
+ul#menu2 li#web:hover {background-position:0px -52px;}
+ul#menu2 li#web.current, ul#menu2 li#web:active {background-position:0px -52px;}
+
+ul#menu2 li#photo {background-position:-115px 0px; width:105px;}
+ul#menu2 li#photo:hover {background-position:-115px -52px;} 
+ul#menu2 li#photo.current, ul#menu2 li#photo:active {background-position:-115px -52px;}
+
+ul#menu2 li#pm {background-position:-230px 0px; width:154px;}
+ul#menu2 li#pm:hover {background-position:-230px -52px;} 
+ul#menu2 li#pm.current, ul#menu2 li#pm:active {background-position:-230px -52px;}
+
+ul#menu2 li#banner {background-position:-395px 0px; width:120px;}
+ul#menu2 li#banner:hover {background-position:-395px -52px;} 
+ul#menu2 li#banner.current, ul#menu2 li#banner:active {background-position:-395px -52px;}
+
+div#footer1 { background:url('../img/footer.png') no-repeat;
+height:30px;
+margin-left:10px;
+}
+
+
+div#pm { background:url('../img/gallery/pm/newDD/flyersized.png') no-repeat;
+height:470px;
+margin-left:367px;}
+
+div#bannerup { margin-bottom:40px;}
+
+div#banner2 { margin:40px;}
+
+div#banner3 { margin:40px;
+margin-bottom:30px;}

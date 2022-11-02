@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="810" maxImageHeight="810" textColor="0xffffff" frameColor="0xffffff" frameWidth="1" stagePadding="10" navPadding="5" thumbnailColumns="5" thumbnailRows="1" navPosition="top" vAlign="top" hAlign="top" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>indexlv.jpg</filename>
+	
+</image>
+<image>
+	<filename>catalogrus.jpg</filename>
+	
+</image>
+<image>
+	<filename>ecpage1.jpg</filename>
+	
+</image>
+<image>
+	<filename>ecpage2.jpg</filename>
+	
+</image>
+<image>
+	<filename>ecpage3.jpg</filename>
+	
+</image>
+<image>
+	<filename>ecpage4.jpg</filename>
+	
+</image>
+<image>
+	<filename>joinlv.jpg</filename>
+	
+</image>
+<image>
+	<filename>join_podsk.jpg</filename>
+	
+</image>
+<image>
+	<filename>upload.jpg</filename>
+	
+</image>
+
+</simpleviewerGallery>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="1200" maxImageHeight="1200" textColor="0xffffff" frameColor="0xffffff" frameWidth="1" stagePadding="10" navPadding="5" thumbnailColumns="5" thumbnailRows="1" navPosition="bottom" vAlign="bottom" hAlign="bottom" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>nature.jpg</filename>
+	
+</image>
+<image>
+	<filename>greenworld.jpg</filename>
+	
+</image>
+<image>
+	<filename>noga.jpg</filename>
+	<caption>noga.jpg</caption>
+</image>
+<image>
+	<filename>pixel.jpg</filename>
+	
+</image>
+<image>
+	<filename>HDR1.jpg</filename>
+	
+</image>
+<image>
+	<filename>low-key.jpg</filename>
+	
+</image><image>
+	<filename>anatomy.jpg</filename>
+	
+</image><image>
+	<filename>high-key.jpg</filename>
+	
+</image><image>
+	<filename>oks.jpg</filename>
+	
+</image>
+</simpleviewerGallery>

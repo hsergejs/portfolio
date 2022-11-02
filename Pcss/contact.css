@@ -1,0 +1,84 @@
+div.overlay {
+	background-image:url('../img/contact/white.png');
+	width:600px;
+	height:470px;		
+	display:none;
+	padding:55px;
+}
+div.overlay div.close {
+	background-image:url('../img/contact/close.png');
+	position:absolute;
+	right:5px;
+	top:5px;
+	cursor:pointer;
+	height:35px;
+	width:35px;
+}
+#overlay {
+	background-image:url('../img/contact/transparent.png');
+	color:#efefef;
+}
+#overgoop {
+	background-image:url('../img/contact/transparent.png');
+	color:#efefef;
+}
+div.wrap {
+	height:441px;
+	overflow-y:auto;
+}
+.contact-title { font-family: 'Calligraph421 BT', Tahoma, Geneva, sans-serif; color:#AF549F; margin:0; padding:0 0 6px 12px; font-size: 2.2em; text-align:left;}
+.contact-input {font-family: 'Calligraph421 BT', Tahoma, Geneva, sans-serif; float:left; padding:2px; margin:2px; background:#eee; border:1px solid #fff; width:300px;
+}
+.lable {
+                text-align: right;
+				clear:left; 
+				display:block;
+				padding-right:4px; 
+			    font-size: 18px;
+				font-family: 'Calligraph421 BT', Tahoma, Geneva, sans-serif;
+				
+                }
+        .input {
+                text-align: left;
+				background-color:#f0f0f0;
+				border: 0px;
+				font-size: 15px;
+				font-weight:bold;
+				font-family: Arial, Helvetica, sans-serif;
+				color: #AF549F;
+                }
+				
+
+.warning_font_big {
+
+
+font-family: Calligraph421 BT, Arial, Helvetica, sans-serif;
+font-size: 30px;
+color:#FFF;
+}
+
+.warning_font {
+font-family: Calligraph421 BT, Verdana, Arial, Helvetica, sans-serif;
+font-size: 20px;
+color:#FFF;
+padding-left: 50px;
+padding-right: 25px;
+padding-top: 5px;
+}
+
+.redirect {font-family:Verdana, Geneva, sans-serif;
+font-size:12px;
+color:#999;
+padding-left: 50px;
+padding-right: 25px;
+padding-top: 15px}
+
+div#contactlogo {background:url('../img/header.jpg') no-repeat center;
+background-color:#000;
+height:460px;
+width:100%}
+
+.mandatory { font-family:'Trebuchet MS', Verdana, Arial;
+font-size:11px;
+color:#666;
+padding-top:10px;}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="1200" maxImageHeight="1200" textColor="0xffffff" frameColor="0xffffff" frameWidth="1" stagePadding="10" navPadding="5" thumbnailColumns="5" thumbnailRows="1" navPosition="top" vAlign="top" hAlign="top" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>ejfindex.jpg</filename>
+	
+</image>
+<image>
+	<filename>ejfheader.jpg</filename>
+	
+</image>
+<image>
+	<filename>ejfseredina.jpg</filename>
+	
+</image>
+<image>
+	<filename>ejffooter.jpg</filename>
+	
+</image>
+<image>
+	<filename>ejfcat.jpg</filename>
+	
+</image>
+<image>
+	<filename>ejfcat1.jpg</filename>
+	
+</image>
+<image>
+	<filename>ejftovar.jpg</filename>
+	
+</image>
+<image>
+	<filename>ejfcatrus.jpg</filename>
+	
+</image>
+<image>
+	<filename>ejftovarrus.jpg</filename>
+	
+</image>
+</simpleviewerGallery>

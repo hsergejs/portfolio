@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="1200" maxImageHeight="1200" textColor="0xffffff" frameColor="000000" frameWidth="1" stagePadding="10" navPadding="5" thumbnailColumns="5" thumbnailRows="1" navPosition="top" vAlign="top" hAlign="top" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>dd6apka.jpg</filename>
+	
+</image>
+<image>
+	<filename>ddseredina.jpg</filename>
+	
+</image>
+<image>
+	<filename>ddfooter.jpg</filename>
+	
+</image>
+<image>
+	<filename>ddazcat.jpg</filename>
+	
+</image>
+<image>
+	<filename>dddefcat.jpg</filename>
+	
+</image>
+<image>
+	<filename>ddcat.jpg</filename>
+	
+</image>
+<image>
+	<filename>ltdpage.jpg</filename>
+	
+</image>
+<image>
+	<filename>ltdpage1.jpg</filename>
+	
+</image>
+<image>
+	<filename>ltdpage2.jpg</filename>
+	
+</image>
+<image>
+	<filename>ltdpage3.jpg</filename>
+	
+</image>
+</simpleviewerGallery>

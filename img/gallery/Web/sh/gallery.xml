@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="810" maxImageHeight="810" textColor="0xffffff" frameColor="0xffffff" frameWidth="1" stagePadding="10" navPadding="5" thumbnailColumns="5" thumbnailRows="1" navPosition="top" vAlign="top" hAlign="top" title="" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>shindex.jpg</filename>
+	
+</image>
+<image>
+	<filename>shportf.jpg</filename>
+	
+</image>
+<image>
+	<filename>shcont.jpg</filename>
+	
+</image>
+</simpleviewerGallery>
